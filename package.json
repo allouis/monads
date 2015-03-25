@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/allouis/monads/issues"
   },
-  "homepage": "https://github.com/allouis/monads"
+  "homepage": "https://github.com/allouis/monads",
+  "dependencies": {
+    "indexjs": "^0.2.0"
+  }
 }
