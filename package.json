@@ -1,0 +1,26 @@
+{
+  "name": "monads",
+  "version": "0.0.0",
+  "description": "useful monads",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:allouis/monads.git"
+  },
+  "keywords": [
+    "monad",
+    "monads",
+    "maybe",
+    "either",
+    "promise"
+  ],
+  "author": "Fabien O'Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/monads/issues"
+  },
+  "homepage": "https://github.com/allouis/monads"
+}
